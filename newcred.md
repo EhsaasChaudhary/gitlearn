@@ -1,0 +1,2 @@
+mycreds = sdn
+userpass = sjsjsjs 
