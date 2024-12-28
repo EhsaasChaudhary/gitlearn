@@ -1,2 +1,0 @@
-mycreds = sdn
-userpass = sjsjsjs 
